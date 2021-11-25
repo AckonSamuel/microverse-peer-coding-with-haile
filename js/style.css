@@ -1,6 +1,8 @@
 
 
-@media only screen and (max-width: 400px){
-    .main-doc{
-    background-color: aqua;
-}}
+@media (max-width: 400px){
+    body {
+        background-color:blue;
+    }
+    
+}
